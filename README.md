@@ -30,6 +30,3 @@ This repository contains a full-stack AI Tutor project:
 - GET `/api/tutor/questions` — all questions
 - GET `/api/tutor/attempts` — attempts (populated)
 
-## Notes
-- The backend uses the **old Gemini v1beta `gemini-pro`** endpoint so it accepts `AIza...` keys commonly available for your account.
-- Keep your API keys secret.
