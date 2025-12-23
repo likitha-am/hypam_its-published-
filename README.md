@@ -21,7 +21,6 @@ This repository contains a full-stack AI Tutor project:
      npm install
      npm run dev
      ```
-4. Open frontend at http://localhost:5173
 
 ## Backend endpoints
 - POST `/api/tutor/ask` — `{ studentId, questionText, subject }`
