@@ -1,4 +1,4 @@
-# AI Tutor (Gemini-pro / v1beta backend)
+# HYPAM-intelligent tutoring system using feedback loop(published)
 
 This repository contains a full-stack AI Tutor project:
 - Backend (Node.js + Express + Mongoose) using old Gemini API (`v1beta` + `gemini-pro`) — works with `AIza...` keys.
